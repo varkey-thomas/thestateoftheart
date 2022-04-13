@@ -1,0 +1,53 @@
+body
+{
+	background-color: #247881;
+}
+.navbar
+{
+	color: darkviolet;
+	margin: auto 100px 100px auto;
+	padding: auto 50px 50px auto;
+}
+.navbar
+{
+	margin-right: 0px;
+}
+
+.nav-link
+{
+	color: #FFD365;
+	font-size: 20px;
+}
+
+.image
+{
+	width: 800px;
+	height: 500px;
+}
+h2
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 70px;
+}
+h3
+{
+	font-family: 'Lato', sans-serif;
+}
+p
+{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.main
+{
+	padding: 0 3% 3% 3%;
+}
+
+.first
+{
+	padding: 20px 20px;
+}
+.second
+{
+	padding: 20px 20px;
+}
