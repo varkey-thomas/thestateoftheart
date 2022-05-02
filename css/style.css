@@ -1,53 +1,37 @@
 body
 {
-	background-color: #247881;
-}
-.navbar
-{
-	color: darkviolet;
-	margin: auto 100px 100px auto;
-	padding: auto 50px 50px auto;
-}
-.navbar
-{
-	margin-right: 0px;
+	text-align: center;
+	background-color: #2F5D62;
 }
 
 .nav-link
 {
-	color: #FFD365;
-	font-size: 20px;
+	font-size: 25px;
+	margin: auto 30px;
 }
 
-.image
+.navbar-brand
 {
-	width: 800px;
+	margin: auto 50px;
+	font-size: 30px;
+}
+
+.home-row
+{
+	background-image:url("../images/hr1.jpg");
 	height: 500px;
+	width: 100%;
+	margin-bottom: 30px;
 }
-h2
+.arts
 {
-	font-family: 'Lato', sans-serif;
-	font-size: 70px;
+	background-color: #A7C4BC;
+	height: 500px;
+	margin-bottom: 30px;
 }
-h3
+.crafts
 {
-	font-family: 'Lato', sans-serif;
-}
-p
-{
-	font-family: 'Josefin Sans', sans-serif;
-}
-
-.main
-{
-	padding: 0 3% 3% 3%;
-}
-
-.first
-{
-	padding: 20px 20px;
-}
-.second
-{
-	padding: 20px 20px;
+	background-color: #5E8B7E;
+	height: 500px;
+	margin-bottom: 30px;
 }
