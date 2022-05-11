@@ -2,6 +2,7 @@ body
 {
 	text-align: center;
 	background-color: #2F5D62;
+	font-family: 'Inter', sans-serif;
 }
 
 .nav-link
@@ -35,3 +36,4 @@ body
 	height: 500px;
 	margin-bottom: 30px;
 }
+
